@@ -1,0 +1,44 @@
+C:\Users\Slavina\source\repos\SchoolBook\SchoolBook\bin\Debug\net8.0-windows\SchoolBook.exe
+C:\Users\Slavina\source\repos\SchoolBook\SchoolBook\bin\Debug\net8.0-windows\SchoolBook.deps.json
+C:\Users\Slavina\source\repos\SchoolBook\SchoolBook\bin\Debug\net8.0-windows\SchoolBook.runtimeconfig.json
+C:\Users\Slavina\source\repos\SchoolBook\SchoolBook\bin\Debug\net8.0-windows\SchoolBook.dll
+C:\Users\Slavina\source\repos\SchoolBook\SchoolBook\bin\Debug\net8.0-windows\SchoolBook.pdb
+C:\Users\Slavina\source\repos\SchoolBook\SchoolBook\obj\Debug\net8.0-windows\SchoolBook.MainForm.resources
+C:\Users\Slavina\source\repos\SchoolBook\SchoolBook\obj\Debug\net8.0-windows\SchoolBook.csproj.GenerateResource.cache
+C:\Users\Slavina\source\repos\SchoolBook\SchoolBook\obj\Debug\net8.0-windows\SchoolBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Slavina\source\repos\SchoolBook\SchoolBook\obj\Debug\net8.0-windows\SchoolBook.AssemblyInfoInputs.cache
+C:\Users\Slavina\source\repos\SchoolBook\SchoolBook\obj\Debug\net8.0-windows\SchoolBook.AssemblyInfo.cs
+C:\Users\Slavina\source\repos\SchoolBook\SchoolBook\obj\Debug\net8.0-windows\SchoolBook.csproj.CoreCompileInputs.cache
+C:\Users\Slavina\source\repos\SchoolBook\SchoolBook\obj\Debug\net8.0-windows\SchoolBook.dll
+C:\Users\Slavina\source\repos\SchoolBook\SchoolBook\obj\Debug\net8.0-windows\refint\SchoolBook.dll
+C:\Users\Slavina\source\repos\SchoolBook\SchoolBook\obj\Debug\net8.0-windows\SchoolBook.pdb
+C:\Users\Slavina\source\repos\SchoolBook\SchoolBook\obj\Debug\net8.0-windows\SchoolBook.genruntimeconfig.cache
+C:\Users\Slavina\source\repos\SchoolBook\SchoolBook\obj\Debug\net8.0-windows\ref\SchoolBook.dll
+C:\Users\Slavina\source\repos\SchoolBook\SchoolBook\obj\Debug\net8.0-windows\SchoolBook.Forms.DiaryForm.resources
+C:\Users\Slavina\source\repos\SchoolBook\SchoolBook\obj\Debug\net8.0-windows\SchoolBook.Forms.HomeForm.resources
+C:\Users\Slavina\source\repos\SchoolBook\SchoolBook\obj\Debug\net8.0-windows\SchoolBook.Properties.Resources.resources
+C:\Users\Slavina\source\repos\SchoolBook\SchoolBook\obj\Debug\net8.0-windows\SchoolBook.Forms.EventsForm.resources
+C:\Users\Slavina\source\repos\SchoolBook\SchoolBook\obj\Debug\net8.0-windows\SchoolBook.Forms.SchoolForm.resources
+C:\Users\Slavina\source\repos\SchoolBook\SchoolBook\obj\Debug\net8.0-windows\SchoolBook.Forms.AdministrationForm.resources
+C:\Users\PC\Downloads\New folder\New folder\SchoolBook2\SchoolBook\bin\Debug\net8.0-windows\SchoolBook.exe
+C:\Users\PC\Downloads\New folder\New folder\SchoolBook2\SchoolBook\bin\Debug\net8.0-windows\SchoolBook.deps.json
+C:\Users\PC\Downloads\New folder\New folder\SchoolBook2\SchoolBook\bin\Debug\net8.0-windows\SchoolBook.runtimeconfig.json
+C:\Users\PC\Downloads\New folder\New folder\SchoolBook2\SchoolBook\bin\Debug\net8.0-windows\SchoolBook.dll
+C:\Users\PC\Downloads\New folder\New folder\SchoolBook2\SchoolBook\bin\Debug\net8.0-windows\SchoolBook.pdb
+C:\Users\PC\Downloads\New folder\New folder\SchoolBook2\SchoolBook\obj\Debug\net8.0-windows\SchoolBook.Forms.AdministrationForm.resources
+C:\Users\PC\Downloads\New folder\New folder\SchoolBook2\SchoolBook\obj\Debug\net8.0-windows\SchoolBook.Forms.DiaryForm.resources
+C:\Users\PC\Downloads\New folder\New folder\SchoolBook2\SchoolBook\obj\Debug\net8.0-windows\SchoolBook.Forms.EventsForm.resources
+C:\Users\PC\Downloads\New folder\New folder\SchoolBook2\SchoolBook\obj\Debug\net8.0-windows\SchoolBook.Forms.HomeForm.resources
+C:\Users\PC\Downloads\New folder\New folder\SchoolBook2\SchoolBook\obj\Debug\net8.0-windows\SchoolBook.Forms.SchoolForm.resources
+C:\Users\PC\Downloads\New folder\New folder\SchoolBook2\SchoolBook\obj\Debug\net8.0-windows\SchoolBook.MainForm.resources
+C:\Users\PC\Downloads\New folder\New folder\SchoolBook2\SchoolBook\obj\Debug\net8.0-windows\SchoolBook.Properties.Resources.resources
+C:\Users\PC\Downloads\New folder\New folder\SchoolBook2\SchoolBook\obj\Debug\net8.0-windows\SchoolBook.csproj.GenerateResource.cache
+C:\Users\PC\Downloads\New folder\New folder\SchoolBook2\SchoolBook\obj\Debug\net8.0-windows\SchoolBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Downloads\New folder\New folder\SchoolBook2\SchoolBook\obj\Debug\net8.0-windows\SchoolBook.AssemblyInfoInputs.cache
+C:\Users\PC\Downloads\New folder\New folder\SchoolBook2\SchoolBook\obj\Debug\net8.0-windows\SchoolBook.AssemblyInfo.cs
+C:\Users\PC\Downloads\New folder\New folder\SchoolBook2\SchoolBook\obj\Debug\net8.0-windows\SchoolBook.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\New folder\New folder\SchoolBook2\SchoolBook\obj\Debug\net8.0-windows\SchoolBook.dll
+C:\Users\PC\Downloads\New folder\New folder\SchoolBook2\SchoolBook\obj\Debug\net8.0-windows\refint\SchoolBook.dll
+C:\Users\PC\Downloads\New folder\New folder\SchoolBook2\SchoolBook\obj\Debug\net8.0-windows\SchoolBook.pdb
+C:\Users\PC\Downloads\New folder\New folder\SchoolBook2\SchoolBook\obj\Debug\net8.0-windows\SchoolBook.genruntimeconfig.cache
+C:\Users\PC\Downloads\New folder\New folder\SchoolBook2\SchoolBook\obj\Debug\net8.0-windows\ref\SchoolBook.dll
